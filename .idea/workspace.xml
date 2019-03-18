@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/Adjacencylist.py" description="params = lines[0].split" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9121e9b-f099-41f5-8108-480a92751641" name="Default Changelist" comment="" />
+    <list default="true" id="e9121e9b-f099-41f5-8108-480a92751641" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/adapters_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/adapters_info.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adapters_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
-              <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+            <state relative-caret-position="230">
+              <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -116,8 +118,8 @@
         <option value="$PROJECT_DIR$/affine.py" />
         <option value="$PROJECT_DIR$/next_vertex.py" />
         <option value="$PROJECT_DIR$/adjmatrix.py" />
-        <option value="$PROJECT_DIR$/adapters_info.py" />
         <option value="$PROJECT_DIR$/dinnerparty.py" />
+        <option value="$PROJECT_DIR$/adapters_info.py" />
       </list>
     </option>
   </component>
@@ -326,13 +328,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49604744" visible="true" weight="0.16654275" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49604744" visible="true" weight="0.16654275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50395256" side_tool="true" visible="true" weight="0.16654275" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8408922" visible="true" weight="0.3058985" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8408922" visible="true" weight="0.3058985" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/adapters_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+        <state relative-caret-position="230">
+          <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
         </state>
       </provider>
     </entry>

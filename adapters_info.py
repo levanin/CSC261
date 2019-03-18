@@ -89,7 +89,7 @@ def adapter_chain(adapters_info, charger_plug, wall_socket):
     s = shortest_path(parent, destination, start)
     return "CS Unplugged!" if s is None else s
 
-
+# test cases for program
 adapters_info_str = """\
 D 5
 0 1
